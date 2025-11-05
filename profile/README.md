@@ -28,10 +28,7 @@ Gamify your coding journey! Track achievements and milestones as you code, makin
 
 ## 🛠️ Technologies We Love
 
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54">
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white">
 
 ## 👥 The Team
 
